@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0980-unique-paths-iii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0980-unique-paths-iii) |
 ## Backtracking
 |  |
@@ -16,9 +17,38 @@
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0980-unique-paths-iii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0980-unique-paths-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
