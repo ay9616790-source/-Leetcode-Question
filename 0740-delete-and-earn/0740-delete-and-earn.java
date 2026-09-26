@@ -1,42 +1,26 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
+        int max=0;
+       for(int i=0;i<nums.length;i++){
+            max=Math.max(nums[i],max);
+       }
+       int []arr=new int[max+1];
+       for(int i=0;i<nums.length;i++){
+         arr[nums[i]]+=nums[i];
+       }
+       int dp[]=new int[max+1];
+       Arrays.fill(dp,-1);
+       return solve(0,arr,dp);
 
-        // Step 1: Frequency count
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+    }
+    int solve(int i, int[] arr,int [] dp){
+        if(i>=arr.length){
+            return 0;
         }
-
-        // Step 2: Find maximum number
-        int max = 0;
-
-        for (int key : map.keySet()) {
-            max = Math.max(max, key);
+        if(dp[i]!=-1){
+            return dp[i];
         }
-
-        // Step 3: Points array
-        int[] points = new int[max + 1];
-
-        for (int key : map.keySet()) {
-            points[key] = key * map.get(key);
-        }
-
-        // Step 4: House Robber DP
-        int prev2 = 0;
-        int prev1 = 0;
-
-        for (int i = 1; i <= max; i++) {
-
-            int take = prev2 + points[i];
-            int skip = prev1;
-
-            int current = Math.max(take, skip);
-
-            prev2 = prev1;
-            prev1 = current;
-        }
-
-        return prev1;
+         return dp[i] = Math.max(solve(i+1,arr,dp),arr[i]+solve(i+2, arr, dp));
+        
     }
 }
