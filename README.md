@@ -39,6 +39,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
+## String
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
