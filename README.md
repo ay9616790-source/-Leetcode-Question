@@ -12,6 +12,7 @@
 | [0312-burst-balloons](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
@@ -35,6 +36,7 @@
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0980-unique-paths-iii) |
@@ -51,6 +53,7 @@
 | [0213-house-robber-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
@@ -68,6 +71,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
