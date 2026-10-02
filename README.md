@@ -13,6 +13,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
@@ -37,6 +38,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0980-unique-paths-iii) |
@@ -63,6 +65,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
@@ -72,6 +75,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
@@ -133,5 +137,6 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
