@@ -21,6 +21,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0040-combination-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0980-unique-paths-iii) |
@@ -44,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0213-house-robber-ii) |
@@ -100,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -115,6 +118,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
