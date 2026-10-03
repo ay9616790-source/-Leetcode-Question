@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0174-dungeon-game) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,12 +131,14 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
