@@ -131,6 +131,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -144,6 +145,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -153,6 +155,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -174,4 +177,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
