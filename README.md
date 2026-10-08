@@ -14,6 +14,7 @@
 | [0312-burst-balloons](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
@@ -66,6 +67,7 @@
 | [0213-house-robber-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -130,6 +132,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
+| [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0856-score-of-parentheses) |
@@ -184,4 +187,12 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
