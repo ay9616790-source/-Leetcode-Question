@@ -22,6 +22,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0980-unique-paths-iii) |
+| [0983-minimum-cost-for-tickets](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0983-minimum-cost-for-tickets) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
@@ -80,6 +81,7 @@
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0983-minimum-cost-for-tickets) |
 | [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
