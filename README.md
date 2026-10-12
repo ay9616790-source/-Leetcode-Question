@@ -27,6 +27,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -58,6 +59,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Depth-First Search
 |  |
