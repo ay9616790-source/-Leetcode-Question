@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0130-surrounded-regions) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0174-dungeon-game) |
@@ -204,6 +206,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1262-greatest-sum-divisible-by-three) |
