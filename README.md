@@ -75,6 +75,7 @@
 | [0045-jump-game-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
 | [0174-dungeon-game](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0213-house-robber-ii) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -225,4 +227,16 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
