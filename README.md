@@ -31,6 +31,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -239,4 +241,12 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
