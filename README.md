@@ -7,6 +7,7 @@
 | [0040-combination-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
+| [0119-pascals-triangle-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0174-dungeon-game) |
@@ -77,6 +78,7 @@
 | [0062-unique-paths](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
+| [0119-pascals-triangle-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0119-pascals-triangle-ii) |
 | [0174-dungeon-game](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0213-house-robber-ii) |
