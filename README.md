@@ -90,6 +90,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0741-cherry-pickup) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0983-minimum-cost-for-tickets) |
 | [1092-shortest-common-supersequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1092-shortest-common-supersequence) |
@@ -106,6 +107,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
@@ -117,6 +119,7 @@
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -264,4 +268,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
