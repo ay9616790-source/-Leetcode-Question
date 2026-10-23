@@ -149,6 +149,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
