@@ -168,6 +168,7 @@
 | [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
+| [0402-remove-k-digits](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0045-jump-game-ii) |
+| [0402-remove-k-digits](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -292,4 +295,8 @@
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
