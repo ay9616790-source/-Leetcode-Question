@@ -28,6 +28,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -287,4 +288,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
