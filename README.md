@@ -6,6 +6,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0063-unique-paths-ii) |
 | [0119-pascals-triangle-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
@@ -166,6 +167,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0146-lru-cache) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
@@ -175,6 +177,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
@@ -218,6 +221,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0049-group-anagrams) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
