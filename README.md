@@ -37,6 +37,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
@@ -68,6 +69,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0934-shortest-bridge](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -225,6 +229,7 @@
 | [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
