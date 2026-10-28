@@ -164,6 +164,7 @@
 | [0062-unique-paths](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
+| [0633-sum-of-square-numbers](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
+| [0633-sum-of-square-numbers](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0402-remove-k-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
