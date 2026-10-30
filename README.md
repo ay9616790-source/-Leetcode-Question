@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0312-burst-balloons](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
@@ -174,6 +175,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0049-group-anagrams) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
