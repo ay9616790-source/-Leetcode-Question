@@ -36,6 +36,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -109,6 +110,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -170,6 +172,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -333,4 +336,8 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
