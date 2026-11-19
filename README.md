@@ -39,6 +39,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -241,6 +242,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
@@ -263,6 +265,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Knapsack Problem
 |  |
