@@ -195,6 +195,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
+| [0520-detect-capital](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0856-score-of-parentheses) |
