@@ -174,6 +174,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -349,4 +350,5 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
