@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0312-burst-balloons](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0413-arithmetic-slices](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -98,6 +99,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0413-arithmetic-slices](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0413-arithmetic-slices) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Stack
