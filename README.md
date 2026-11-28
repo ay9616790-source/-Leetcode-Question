@@ -24,6 +24,7 @@
 | [0463-island-perimeter](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0741-cherry-pickup) |
@@ -102,6 +103,7 @@
 | [0413-arithmetic-slices](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0740-delete-and-earn) |
@@ -301,10 +303,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
 |  |
@@ -354,4 +358,8 @@
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/3360-stone-removal-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ay9616790-source/-Leetcode-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
